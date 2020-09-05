@@ -1,0 +1,22 @@
+.nhapLieu input {
+  outline: none;
+}
+
+.nhapLieu input:focus {
+  -webkit-box-shadow: 20px 20px 40px gray;
+          box-shadow: 20px 20px 40px gray;
+  -webkit-transform: scale(1.02);
+          transform: scale(1.02);
+}
+
+.nhapLieu select {
+  outline: none;
+}
+
+.nhapLieu select:focus {
+  -webkit-box-shadow: 20px 20px 40px gray;
+          box-shadow: 20px 20px 40px gray;
+  -webkit-transform: scale(1.02);
+          transform: scale(1.02);
+}
+/*# sourceMappingURL=main.css.map */

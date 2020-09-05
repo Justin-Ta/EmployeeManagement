@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AACI,SADK,CACL,KAAK,CAAA;EACD,OAAO,EAAE,IAAI;CAKhB;;AAPL,AAGQ,SAHC,CACL,KAAK,AAEA,MAAM,CAAC;EACJ,UAAU,EAAE,mBAAmB;EAC/B,SAAS,EAAE,WAAW;CACzB;;AANT,AAQI,SARK,CAQL,MAAM,CAAA;EACF,OAAO,EAAE,IAAI;CAKhB;;AAdL,AAUQ,SAVC,CAQL,MAAM,AAED,MAAM,CAAC;EACJ,UAAU,EAAE,mBAAmB;EAC/B,SAAS,EAAE,WAAW;CACzB",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/Layout/_administrator.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

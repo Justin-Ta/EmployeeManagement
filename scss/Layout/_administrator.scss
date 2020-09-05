@@ -1,0 +1,17 @@
+.nhapLieu{
+    input{
+        outline: none;
+        &:focus {
+            box-shadow: 20px 20px 40px gray;
+            transform: scale(1.02);
+        }
+    }
+    select{
+        outline: none;
+        &:focus {
+            box-shadow: 20px 20px 40px gray;
+            transform: scale(1.02);
+        }
+    }
+
+}
